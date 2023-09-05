@@ -1,0 +1,19 @@
+{
+  "name": "0000",
+  "version": "1.0.0",
+  "description": "Register-account",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node test.js",
+    "t1": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
